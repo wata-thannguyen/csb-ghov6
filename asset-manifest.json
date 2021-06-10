@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wata-thannguyen.github.io/csb-ghov6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://wata-thannguyen.github.io/csb-ghov6/static/js/main.4e89c4fe.chunk.js",
+    "main.js.map": "https://wata-thannguyen.github.io/csb-ghov6/static/js/main.4e89c4fe.chunk.js.map",
+    "runtime-main.js": "https://wata-thannguyen.github.io/csb-ghov6/static/js/runtime-main.2d564a0d.js",
+    "runtime-main.js.map": "https://wata-thannguyen.github.io/csb-ghov6/static/js/runtime-main.2d564a0d.js.map",
+    "static/js/2.fee8853d.chunk.js": "https://wata-thannguyen.github.io/csb-ghov6/static/js/2.fee8853d.chunk.js",
+    "static/js/2.fee8853d.chunk.js.map": "https://wata-thannguyen.github.io/csb-ghov6/static/js/2.fee8853d.chunk.js.map",
+    "index.html": "https://wata-thannguyen.github.io/csb-ghov6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://wata-thannguyen.github.io/csb-ghov6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fee8853d.chunk.js.LICENSE.txt": "https://wata-thannguyen.github.io/csb-ghov6/static/js/2.fee8853d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d564a0d.js",
+    "static/js/2.fee8853d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4e89c4fe.chunk.js"
+  ]
+}
